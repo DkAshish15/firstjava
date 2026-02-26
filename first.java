@@ -6,4 +6,5 @@ public class DataTypesExample {
         // Variables hold different data types
         System.out.println("Number: " + number + ", Price: " + price);
     }
-}
+} }
+
